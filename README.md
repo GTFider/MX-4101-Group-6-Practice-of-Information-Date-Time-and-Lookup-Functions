@@ -1,5 +1,4 @@
 # MX-4101-Group-6-Practice-of-Information-Date-Time-and-Lookup-Functions
-# MX-4101-Group-6-Practice-of-Text-Math-and-Logical-Functions
 # Authors: 
 **Andal, Malan Lewis I.** \
 **Fider, Gerrard Troy C.** \
